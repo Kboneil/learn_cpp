@@ -1,0 +1,1 @@
+* Small beginning app to learn a little c++
